@@ -6,3 +6,5 @@ cnivpp/bin_api/
 docker/usrsp-app/usrsp-app
 docker/vpp-centos-userspace-cni/usrsp-app
 docker/ovs-centos-userspace-cni/usrsp-app
+docker/unit-tests/Dockerfile.*
+!docker/unit-tests/Dockerfile.*.in
